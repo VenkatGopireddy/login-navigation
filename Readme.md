@@ -1,2 +1,2 @@
 Created a Login Component
-Implemented Navigation between the screens
+And Navigation between the screens
